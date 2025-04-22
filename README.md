@@ -1,6 +1,6 @@
 ## Overview
 
-I had fun playing with this for NLP course! although it was very hard to come up with `learnDecoder` since it involves complex mathematics like SVD.
+I had fun playing with this for NLP course! although I had to do it in mat language which is definetly not my area – the pseudocode say it all.
 
 This system uses machine learning techniques to decode brain activity patterns (fMRI data) associated with different types of concepts, specifically differentiating between abstract and concrete semantic representations. 
 
